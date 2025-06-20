@@ -1,2 +1,2 @@
-# Simple Counter Using HTML+CSS+JS
+HTML+CSS+JS
 
